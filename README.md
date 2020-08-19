@@ -1,4 +1,4 @@
-Tic-Tac-Toe Agent
+# Tic-Tac-Toe Agent
  In this notebook,To build an RL agent (using Q-learning) that learns to play Numerical Tic-Tac-Toe with odd numbers. The environment is playing randomly with the agent, i.e. its strategy is to put an even number randomly in an empty cell. The following is the layout of the notebook:
 
     - Defining epsilon-greedy strategy
